@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[622],{6622:(e,n,o)=>{o.r(n),o.d(n,{AboutUsModule:()=>l});var t=o(6895),s=o(4650);let l=(()=>{class u{}return u.\u0275fac=function(d){return new(d||u)},u.\u0275mod=s.oAB({type:u}),u.\u0275inj=s.cJS({imports:[t.ez]}),u})()}}]);
