@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[561],{5561:(d,l,n)=>{n.r(l),n.d(l,{WhyInsulateModule:()=>o});var e=n(6895),a=n(4650);let o=(()=>{class u{}return u.\u0275fac=function(t){return new(t||u)},u.\u0275mod=a.oAB({type:u}),u.\u0275inj=a.cJS({imports:[e.ez]}),u})()}}]);
